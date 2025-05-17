@@ -82,11 +82,11 @@ Visit [http://127.0.0.1:5000](http://127.0.0.1:5000) and upload a resume to get 
 
 **Upload Page:**
 
-![Upload Screenshot](screenshots/upload.png)
+![Upload Screenshot](image.png)
 
 **Result Page:**
 
-![Result Screenshot](screenshots/result.png)
+![Result Screenshot](image.png)
 
 ## 👤 Author
 
