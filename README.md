@@ -82,7 +82,7 @@ Visit [http://127.0.0.1:5000](http://127.0.0.1:5000) and upload a resume to get 
 
 **Upload Page:**
 
-![Upload Screenshot](image.png)
+![Upload Screenshot](upload.png)
 
 **Result Page:**
 
